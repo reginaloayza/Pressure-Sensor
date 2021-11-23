@@ -1,5 +1,3 @@
-//@author: reginaloayza
-
 class SMA_Filter
 {
 public:

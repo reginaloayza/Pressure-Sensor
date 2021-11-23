@@ -1,5 +1,3 @@
-//@author: reginaloayza
-
 #include "Wire.h" //allows communication over i2c devices
 #include "sma_filter.h"
 
